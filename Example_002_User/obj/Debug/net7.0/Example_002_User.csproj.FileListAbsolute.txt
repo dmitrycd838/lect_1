@@ -1,0 +1,14 @@
+C:\lectures\Example_002_User\bin\Debug\net7.0\Example_002_User.exe
+C:\lectures\Example_002_User\bin\Debug\net7.0\Example_002_User.deps.json
+C:\lectures\Example_002_User\bin\Debug\net7.0\Example_002_User.runtimeconfig.json
+C:\lectures\Example_002_User\bin\Debug\net7.0\Example_002_User.dll
+C:\lectures\Example_002_User\bin\Debug\net7.0\Example_002_User.pdb
+C:\lectures\Example_002_User\obj\Debug\net7.0\Example_002_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\lectures\Example_002_User\obj\Debug\net7.0\Example_002_User.AssemblyInfoInputs.cache
+C:\lectures\Example_002_User\obj\Debug\net7.0\Example_002_User.AssemblyInfo.cs
+C:\lectures\Example_002_User\obj\Debug\net7.0\Example_002_User.csproj.CoreCompileInputs.cache
+C:\lectures\Example_002_User\obj\Debug\net7.0\Example_002_User.dll
+C:\lectures\Example_002_User\obj\Debug\net7.0\refint\Example_002_User.dll
+C:\lectures\Example_002_User\obj\Debug\net7.0\Example_002_User.pdb
+C:\lectures\Example_002_User\obj\Debug\net7.0\Example_002_User.genruntimeconfig.cache
+C:\lectures\Example_002_User\obj\Debug\net7.0\ref\Example_002_User.dll
